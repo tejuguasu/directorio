@@ -10,6 +10,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 
 ### Lenguajes
 * Python https://t.me/pythonparaguay
+* JavaScript https://t.me/javascriptpy
 * React https://t.me/ReactPY
 * PHP https://t.me/phpparaguay
 
