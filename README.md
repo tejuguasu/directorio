@@ -8,6 +8,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 ### Áreas
 * Front-End https://t.me/frontendparaguay
 * Databases https://t.me/databasespy
+* Linux https://t.me/LinuxPyo
 
 ### Lenguajes
 * Python https://t.me/pythonparaguay
