@@ -3,7 +3,7 @@
 El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormente relacionados de una u otra forma a Paraguay o paraguayos.
 Cualquiera puede contribuir actualizando la lista o agregando secciones.
 
-## Desarrollo de software
+## Dev, DevOps, Infra
 
 ### Áreas
 * Front-End https://t.me/frontendparaguay
