@@ -23,3 +23,4 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Blockchain y crypto https://t.me/hashpy
 * Real Estate https://t.me/realestatepy
 * Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
+* Bazar Tecnológico https://t.me/bazartechpy
