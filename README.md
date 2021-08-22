@@ -8,6 +8,8 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 ### Áreas
 * Front-End https://t.me/frontendparaguay
 * Databases https://t.me/databasespy
+* Linux https://t.me/LinuxPyo
+* Data Science https://t.me/Data_Science_PY
 
 ### Lenguajes
 * Python https://t.me/pythonparaguay
@@ -23,3 +25,4 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Blockchain y crypto https://t.me/hashpy
 * Real Estate https://t.me/realestatepy
 * Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
+* Bazar Tecnológico https://t.me/bazartechpy
