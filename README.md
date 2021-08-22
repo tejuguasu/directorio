@@ -13,6 +13,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * JavaScript https://t.me/javascriptpy
 * React https://t.me/ReactPY
 * PHP https://t.me/phpparaguay
+* C#/Net https://t.me/CSharpNetPy
 
 
 ## Otros
