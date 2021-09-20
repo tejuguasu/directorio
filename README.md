@@ -28,3 +28,4 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Real Estate https://t.me/realestatepy
 * Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 * Bazar Tecnológico https://t.me/bazartechpy
+* Automotores https://t.me/automotorspy
