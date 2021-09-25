@@ -24,7 +24,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 ## Otros
 * Trabajo remoto https://t.me/remoteworkpy
 * FInanzas https://t.me/finanzaspy
-* Blockchain y crypto https://t.me/hashpy
+* Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * Real Estate https://t.me/realestatepy
 * Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 * Bazar Tecnológico https://t.me/bazartechpy
