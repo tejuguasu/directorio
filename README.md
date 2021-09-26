@@ -23,6 +23,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 
 ## Otros
 * Trabajo remoto https://t.me/remoteworkpy
+* Ofertas de trabajo https://t.me/trabajoTIPY
 * FInanzas https://t.me/finanzaspy
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * Real Estate https://t.me/realestatepy
