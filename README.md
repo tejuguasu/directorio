@@ -30,3 +30,4 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 * Bazar Tecnológico https://t.me/bazartechpy
 * Automotores https://t.me/automotorspy
+* Turismo y Restaurantes https://t.me/joinchat/P_GLh6g-5BkwMzAx
