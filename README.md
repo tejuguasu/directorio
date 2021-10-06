@@ -9,9 +9,13 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Front-End https://t.me/frontendparaguay
 * Databases https://t.me/databasespy
 * Redes https://t.me/networkpy
-* Linux https://t.me/LinuxPyo
 * Data Science https://t.me/Data_Science_PY
 * Hardware https://t.me/hardwarepy
+
+### Sistemas Operativos
+* Android https://t.me/androidpy
+* Linux https://t.me/LinuxPyo
+
 
 ### Lenguajes
 * Python https://t.me/pythonparaguay
@@ -19,7 +23,6 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * React https://t.me/ReactPY
 * PHP https://t.me/phpparaguay
 * C#/.Net https://t.me/CSharpNetPy
-* Android https://t.me/androidpy
 * Golang https://t.me/golangpy
 * Dart https://t.me/DartPY
 * VueJS https://t.me/vuejsparaguay
