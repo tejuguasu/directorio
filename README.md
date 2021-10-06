@@ -19,7 +19,12 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * React https://t.me/ReactPY
 * PHP https://t.me/phpparaguay
 * C#/.Net https://t.me/CSharpNetPy
-
+* Android https://t.me/androidpy
+* Golang https://t.me/golangpy
+* Dart https://t.me/DartPY
+* VueJS https://t.me/vuejsparaguay
+* Nim https://t.me/NimParaguay
+* Laravel https://t.me/LaravelPY
 
 ## Otros
 * Trabajo remoto https://t.me/remoteworkpy
