@@ -25,6 +25,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Trabajo remoto https://t.me/remoteworkpy
 * Ofertas de trabajo https://t.me/trabajoTIPY
 * FInanzas https://t.me/finanzaspy
+* Promociones con tarjetas de crédito https://t.me/joinchat/vVwfBXzpRkg4NWNh
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * Real Estate https://t.me/realestatepy
 * Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
