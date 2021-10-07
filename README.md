@@ -22,6 +22,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * C#/.Net https://t.me/CSharpNetPy
 * Dart https://t.me/DartPY
 * Golang https://t.me/golangpy
+* Java https://t.me/jugpy
 * JavaScript https://t.me/javascriptpy
 * Laravel https://t.me/LaravelPY
 * Nim https://t.me/NimParaguay
