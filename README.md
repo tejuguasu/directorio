@@ -11,6 +11,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Front-End https://t.me/frontendparaguay
 * Hardware https://t.me/hardwarepy
 * Redes https://t.me/networkpy
+* UX https://t.me/joinchat/EnGRch4xNmMm4sw4
 
 ### Sistemas Operativos
 * Android https://t.me/androidpy
