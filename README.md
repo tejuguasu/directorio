@@ -33,6 +33,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 
 ## Otros
 * Automotores https://t.me/automotorspy
+* Bazar Cripto http://bit.ly/bazarcripto - compra/venta de artículos con criptomonedas en Paraguay
 * Bazar Tecnológico https://t.me/bazartechpy
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * FInanzas https://t.me/finanzaspy
