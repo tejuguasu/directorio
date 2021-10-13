@@ -1,7 +1,7 @@
 # Directorio de grupos, canales y redes paraguayos
 
 El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormente relacionados de una u otra forma a Paraguay o paraguayos.
-Cualquiera puede contribuir actualizando la lista o agregando secciones.
+[Cualquiera puede contribuir](CONTRIBUTING.md) actualizando la lista o agregando secciones.
 
 ## Dev, DevOps, Infra
 
