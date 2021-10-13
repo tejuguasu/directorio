@@ -39,7 +39,7 @@ Cualquiera puede contribuir actualizando la lista o agregando secciones.
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * FInanzas https://t.me/finanzaspy
 * Ofertas de trabajo https://t.me/trabajoTIPY
-* Ofertas de trabajo TIC https://t.me/VacanciasTICpy (Canal)
+* Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
 * Promociones con tarjetas de crédito https://t.me/joinchat/vVwfBXzpRkg4NWNh
 * Real Estate https://t.me/realestatepy
 * Trabajo remoto https://t.me/remoteworkpy
