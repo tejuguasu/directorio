@@ -35,9 +35,11 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Automotores https://t.me/automotorspy
 * Bazar Cripto http://bit.ly/bazarcripto - compra/venta de artículos con criptomonedas en Paraguay
 * Bazar Tecnológico https://t.me/bazartechpy
+* CoompuMARKET.py  https://t.me/joinchat/HG9AlB5o_AE3NTBh - compra/venta de artículos de tecnología
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * FInanzas https://t.me/finanzaspy
 * Ofertas de trabajo https://t.me/trabajoTIPY
+* Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
 * Promociones con tarjetas de crédito https://t.me/joinchat/vVwfBXzpRkg4NWNh
 * Real Estate https://t.me/realestatepy
 * Trabajo remoto https://t.me/remoteworkpy
