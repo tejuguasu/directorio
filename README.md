@@ -32,6 +32,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * VueJS https://t.me/vuejsparaguay
 
 ## Otros
+* Apple Paraguay https://t.me/applestuffparaguay - grupo para debatir asuntos relacionados a la manzanita
 * Automotores https://t.me/automotorspy
 * Bazar Cripto http://bit.ly/bazarcripto - compra/venta de artículos con criptomonedas en Paraguay
 * Bazar Tecnológico https://t.me/bazartechpy
