@@ -38,7 +38,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Bazar Tecnológico https://t.me/bazartechpy
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
 * CoompuMARKET.py  https://t.me/joinchat/HG9AlB5o_AE3NTBh - compra/venta de artículos de tecnología
-* FInanzas https://t.me/finanzaspy
+* Finanzas https://t.me/finanzaspy
 * Ofertas de trabajo https://t.me/trabajoTIPY
 * Promociones con tarjetas de crédito https://t.me/joinchat/vVwfBXzpRkg4NWNh
 * Real Estate https://t.me/realestatepy
