@@ -37,6 +37,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Bazar Cripto http://bit.ly/bazarcripto - compra/venta de artículos con criptomonedas en Paraguay
 * Bazar Tecnológico https://t.me/bazartechpy
 * Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
+* Café https://t.me/cafeparaguay
 * CoompuMARKET.py  https://t.me/joinchat/HG9AlB5o_AE3NTBh - compra/venta de artículos de tecnología
 * Finanzas https://t.me/finanzaspy
 * Ofertas de trabajo https://t.me/trabajoTIPY
