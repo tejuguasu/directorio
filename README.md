@@ -8,6 +8,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 ### Áreas
 * Data Science https://t.me/Data_Science_PY
 * Databases https://t.me/databasespy
+* DevOps https://t.me/devopsPY
 * Front-End https://t.me/frontendparaguay
 * Hardware https://t.me/hardwarepy
 * Redes https://t.me/networkpy
