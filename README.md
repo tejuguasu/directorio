@@ -46,6 +46,6 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Promociones con tarjetas de crédito https://t.me/joinchat/vVwfBXzpRkg4NWNh
 * Real Estate https://t.me/realestatepy
 * Trabajo remoto https://t.me/remoteworkpy
-* Trading (traditional markets, fx) no tiene link público, pedir invitación en Finanzas o Trabajo remoto
+* Trading (traditional markets, fx) [servidor en Discord](https://discord.gg/Qtz9nTX5). El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 * Turismo y Restaurantes https://t.me/joinchat/P_GLh6g-5BkwMzAx
 * Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
