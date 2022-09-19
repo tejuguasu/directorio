@@ -65,3 +65,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Ciberseguro https://t.me/pyciberseguro
 * Ofertas Laboras https://t.me/OfertasLaboralespy
 * Proyectos Beta https://t.me/proyectosbeta
+* TIPY Joda https://t.me/tipyjoda
