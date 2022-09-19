@@ -17,7 +17,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 ### Sistemas Operativos
 * Android https://t.me/androidpy
 * Linux https://t.me/LinuxPyo
-
+* Unix https://t.me/nixpy
 
 ### Lenguajes
 * C#/.Net https://t.me/CSharpNetPy
