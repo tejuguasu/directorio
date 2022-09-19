@@ -63,3 +63,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Testing & QA https://t.me/testing_py
 * TIPY https://t.me/ti_py
 * Ciberseguro https://t.me/pyciberseguro
+* Ofertas Laboras https://t.me/OfertasLaboralespy
