@@ -59,3 +59,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Node JS https://t.me/nodejs_paraguay
 * OpenShift Users Group PY - https://t.me/openshiftpy
 * PowerBI & Analytics - https://t.me/pbi_analytics_py
+* Testing & QA - https://t.me/testing_py
