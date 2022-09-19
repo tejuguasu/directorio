@@ -54,10 +54,10 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Trading (traditional markets, fx) [servidor en Discord](https://discord.gg/Qtz9nTX5). El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 * Turismo y Restaurantes https://t.me/joinchat/P_GLh6g-5BkwMzAx
 * Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
-* Desarrolladores CDE - Alto Paraná https://t.me/cdedevteam
+* Desarrolladores CDE Alto Paraná https://t.me/cdedevteam
 * Genexus https://t.me/genexuspy
 * Node JS https://t.me/nodejs_paraguay
-* OpenShift Users Group PY - https://t.me/openshiftpy
-* PowerBI & Analytics - https://t.me/pbi_analytics_py
-* Testing & QA - https://t.me/testing_py
+* OpenShift Users Group PY https://t.me/openshiftpy
+* PowerBI & Analytics https://t.me/pbi_analytics_py
+* Testing & QA https://t.me/testing_py
 * TIPY https://t.me/ti_py
