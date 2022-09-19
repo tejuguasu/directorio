@@ -54,3 +54,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Turismo y Restaurantes https://t.me/joinchat/P_GLh6g-5BkwMzAx
 * Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
 * Desarrolladores CDE - Alto Paraná https://t.me/cdedevteam
+* Genexus https://t.me/genexuspy
