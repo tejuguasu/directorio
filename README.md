@@ -60,3 +60,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * OpenShift Users Group PY - https://t.me/openshiftpy
 * PowerBI & Analytics - https://t.me/pbi_analytics_py
 * Testing & QA - https://t.me/testing_py
+* TIPY https://t.me/ti_py
