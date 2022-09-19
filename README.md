@@ -66,3 +66,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Ofertas Laboras https://t.me/OfertasLaboralespy
 * Proyectos Beta https://t.me/proyectosbeta
 * TIPY Joda https://t.me/tipyjoda
+* FLISOL Paraguay https://t.me/flisolpy
