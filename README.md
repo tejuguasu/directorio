@@ -57,3 +57,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Desarrolladores CDE - Alto Paraná https://t.me/cdedevteam
 * Genexus https://t.me/genexuspy
 * Node JS https://t.me/nodejs_paraguay
+* OpenShift Users Group PY - https://t.me/openshiftpy
