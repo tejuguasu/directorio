@@ -35,6 +35,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * React https://t.me/ReactPY
 * VueJS https://t.me/vuejsparaguay
 * Dart/Flutter https://t.me/DartPY
+* GraphQL https://t.me/graphqlparaguay
 
 ## Otros
 * Apple Paraguay https://t.me/applestuffparaguay - grupo para debatir asuntos relacionados a la manzanita
