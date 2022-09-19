@@ -56,3 +56,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
 * Desarrolladores CDE - Alto Paraná https://t.me/cdedevteam
 * Genexus https://t.me/genexuspy
+* Node JS https://t.me/nodejs_paraguay
