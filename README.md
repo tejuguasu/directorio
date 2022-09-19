@@ -13,6 +13,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Hardware https://t.me/hardwarepy
 * Redes https://t.me/networkpy
 * UX https://t.me/joinchat/EnGRch4xNmMm4sw4
+* Metodología Agile https://t.me/agilepy
 
 ### Sistemas Operativos
 * Android https://t.me/androidpy
