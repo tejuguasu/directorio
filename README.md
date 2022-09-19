@@ -68,3 +68,4 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * TIPY Joda https://t.me/tipyjoda
 * FLISOL Paraguay https://t.me/flisolpy
 * Domotica https://t.me/DomoticaPy
+* PYOSCON https://t.me/pyoscon
