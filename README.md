@@ -29,9 +29,9 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 ### Lenguajes y entornos de programación
 * C#/.Net https://t.me/CSharpNetPy
 * Dart https://t.me/DartPY
+* Genexus https://t.me/genexuspy
 * Golang https://t.me/golangpy
 * GraphQL https://t.me/graphqlparaguay
-* Genexus https://t.me/genexuspy
 * Java https://t.me/jugpy
 * JavaScript https://t.me/javascriptpy
 * Laravel https://t.me/LaravelPY
