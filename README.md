@@ -9,6 +9,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Data Science https://t.me/Data_Science_PY
 * Databases https://t.me/databasespy
 * DevOps https://t.me/devopsPY
+* Domotica https://t.me/DomoticaPy
 * Front-End https://t.me/frontendparaguay
 * Hardware https://t.me/hardwarepy
 * Metodología Agile https://t.me/agilepy
@@ -16,7 +17,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * Testing & QA https://t.me/testing_py
 * TIPY https://t.me/ti_py
 * UX https://t.me/joinchat/EnGRch4xNmMm4sw4
-* Domotica https://t.me/DomoticaPy
+
 
 
 ### Sistemas Operativos
@@ -55,8 +56,8 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 * CoompuMARKET.py  https://t.me/joinchat/HG9AlB5o_AE3NTBh - compra/venta de artículos de tecnología
 * Desarrolladores CDE Alto Paraná https://t.me/cdedevteam
 * Docker https://t.me/dockerparaguay
-* FLISOL Paraguay https://t.me/flisolpy
 * Finanzas https://t.me/finanzaspy
+* FLISOL Paraguay https://t.me/flisolpy
 * Ofertas de trabajo https://t.me/trabajoTIPY
 * Ofertas Laboras https://t.me/OfertasLaboralespy
 * OpenShift Users Group PY https://t.me/openshiftpy
