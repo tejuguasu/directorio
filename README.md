@@ -6,68 +6,85 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 ## Dev, DevOps, Infra
 
 ### Áreas
-* Data Science https://t.me/Data_Science_PY
-* Databases https://t.me/databasespy
-* DevOps https://t.me/devopsPY
-* Domotica https://t.me/DomoticaPy
-* Front-End https://t.me/frontendparaguay
-* Hardware https://t.me/hardwarepy
-* Metodología Agile https://t.me/agilepy
-* Redes https://t.me/networkpy
-* Testing & QA https://t.me/testing_py
-* TIPY https://t.me/ti_py
-* UX https://t.me/joinchat/EnGRch4xNmMm4sw4
+
+| Nombre            | Acceso | Datos extra |
+| :---              | :---:  | :---        |
+| Data Science      | [![][ico-telegram]](https://t.me/Data_Science_PY) | |
+| Databases         | [![][ico-telegram]](https://t.me/databasespy) | |
+| DevOps            | [![][ico-telegram]](https://t.me/devopsPY) | |
+| Domotica          | [![][ico-telegram]](https://t.me/DomoticaPy) | |
+| Front-End         | [![][ico-telegram]](https://t.me/frontendparaguay) | |
+| Hardware          | [![][ico-telegram]](https://t.me/hardwarepy) | |
+| Metodología Agile | [![][ico-telegram]](https://t.me/agilepy) | |
+| Redes             | [![][ico-telegram]](https://t.me/networkpy) | |
+| Testing & QA      | [![][ico-telegram]](https://t.me/testing_py) | |
+| TIPY              | [![][ico-telegram]](https://t.me/ti_py) | |
+| UX                | [![][ico-telegram]](https://t.me/joinchat/EnGRch4xNmMm4sw4) | |
 
 
 
 ### Sistemas Operativos
-* Android https://t.me/androidpy
-* Arduino https://t.me/arduinopy
-* Linux https://t.me/LinuxPyo
-* Unix https://t.me/nixpy
+
+| Nombre            | Acceso | Datos extra |
+| :---              | :---:  | :---        |
+| Android           | [![][ico-telegram]](https://t.me/androidpy) | |
+| Arduino           | [![][ico-telegram]](https://t.me/arduinopy) | |
+| Linux             | [![][ico-telegram]](https://t.me/LinuxPyo) | |
+| Unix              | [![][ico-telegram]](https://t.me/nixpy) | |
 
 
 ### Lenguajes y entornos de programación
-* C#/.Net https://t.me/CSharpNetPy
-* Dart https://t.me/DartPY
-* Genexus https://t.me/genexuspy
-* Golang https://t.me/golangpy
-* GraphQL https://t.me/graphqlparaguay
-* Java https://t.me/jugpy
-* JavaScript https://t.me/javascriptpy
-* Laravel https://t.me/LaravelPY
-* Nim https://t.me/NimParaguay
-* Node JS https://t.me/nodejs_paraguay
-* PHP https://t.me/phpparaguay
-* Python https://t.me/pythonparaguay
-* React https://t.me/ReactPY
-* VueJS https://t.me/vuejsparaguay
-* Xamarin https://t.me/XamarinPy
+
+| Nombre            | Acceso | Datos extra |
+| :---              | :---:  | :---        |
+| C#/.Net           | [![][ico-telegram]](https://t.me/CSharpNetPy) | |
+| Dart              | [![][ico-telegram]](https://t.me/DartPY) | |
+| Genexus           | [![][ico-telegram]](https://t.me/genexuspy) | |
+| Golang            | [![][ico-telegram]](https://t.me/golangpy) | |
+| GraphQL           | [![][ico-telegram]](https://t.me/graphqlparaguay) | |
+| Java              | [![][ico-telegram]](https://t.me/jugpy) | |
+| JavaScript        | [![][ico-telegram]](https://t.me/javascriptpy) | |
+| Laravel           | [![][ico-telegram]](https://t.me/LaravelPY) | |
+| Nim               | [![][ico-telegram]](https://t.me/NimParaguay) | |
+| Node JS           | [![][ico-telegram]](https://t.me/nodejs_paraguay) | |
+| PHP               | [![][ico-telegram]](https://t.me/phpparaguay) | |
+| Python            | [![][ico-telegram]](https://t.me/pythonparaguay) | |
+| React             | [![][ico-telegram]](https://t.me/ReactPY) | |
+| VueJS             | [![][ico-telegram]](https://t.me/vuejsparaguay) | |
+| Xamarin           | [![][ico-telegram]](https://t.me/XamarinPy) | |
 
 ## Otros
-* Apple Paraguay https://t.me/applestuffparaguay - grupo para debatir asuntos relacionados a la manzanita
-* Automotores https://t.me/automotorspy
-* Bazar Cripto http://bit.ly/bazarcripto - compra/venta de artículos con criptomonedas en Paraguay
-* Bazar Tecnológico https://t.me/bazartechpy
-* Blockchain y crypto https://t.me/hashpy / NFT https://t.me/HashpyNFT
-* Café https://t.me/cafeparaguay
-* Ciberseguro https://t.me/pyciberseguro
-* Consultas tributarias https://t.me/ConsultasTributarias
-* CoompuMARKET.py  https://t.me/joinchat/HG9AlB5o_AE3NTBh - compra/venta de artículos de tecnología
-* Desarrolladores CDE Alto Paraná https://t.me/cdedevteam
-* Docker https://t.me/dockerparaguay
-* Finanzas https://t.me/finanzaspy
-* FLISOL Paraguay https://t.me/flisolpy
-* Ofertas de trabajo https://t.me/trabajoTIPY
-* Ofertas Laboras https://t.me/OfertasLaboralespy
-* OpenShift Users Group PY https://t.me/openshiftpy
-* PowerBI & Analytics https://t.me/pbi_analytics_py
-* Promociones con tarjetas de crédito https://t.me/joinchat/vVwfBXzpRkg4NWNh
-* Proyectos Beta https://t.me/proyectosbeta
-* PYOSCON https://t.me/pyoscon
-* Real Estate https://t.me/realestatepy
-* TIPY Joda https://t.me/tipyjoda
-* Trabajo remoto https://t.me/remoteworkpy
-* Trading (traditional markets, fx) [servidor en Discord](https://discord.gg/Qtz9nTX5). El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
-* Turismo y Restaurantes https://t.me/joinchat/P_GLh6g-5BkwMzAx
-* Vacancias TIC https://t.me/VacanciasTICpy - canal de ofertas laborales
+
+| Nombre              | Acceso | Datos extra |
+| :---                | :---:  | :---        |
+| Apple Paraguay      | [![][ico-telegram]](https://t.me/applestuffparaguay) | Grupo para debatir asuntos relacionados a la manzanita |
+| Automotores         | [![][ico-telegram]](https://t.me/automotorspy) | |
+| Bazar Cripto        | [![][ico-telegram]](http://bit.ly/bazarcripto) | Compra/venta de artículos con criptomonedas en Paraguay |
+| Bazar Tecnológico   | [![][ico-telegram]](https://t.me/bazartechpy) | |
+| Blockchain y crypto | [![][ico-telegram]](https://t.me/hashpy) | |
+| Blockchain y crypto NFT | [![][ico-telegram]](https://t.me/HashpyNFT) | |
+| Café                | [![][ico-telegram]](https://t.me/cafeparaguay) | |
+| Ciberseguro | [![][ico-telegram]](https://t.me/pyciberseguro) | |
+| Consultas tributarias | [![][ico-telegram]](https://t.me/ConsultasTributarias) | |
+| CoompuMARKET.py  | [![][ico-telegram]](https://t.me/joinchat/HG9AlB5o_AE3NTBh) | Compra/venta de artículos de tecnología |
+| Desarrolladores CDE Alto Paraná | [![][ico-telegram]](https://t.me/cdedevteam) | |
+| Docker | [![][ico-telegram]](https://t.me/dockerparaguay) | |
+| Finanzas | [![][ico-telegram]](https://t.me/finanzaspy) | |
+| FLISOL Paraguay | [![][ico-telegram]](https://t.me/flisolpy) | |
+| Ofertas de trabajo | [![][ico-telegram]](https://t.me/trabajoTIPY) | |
+| Ofertas Laboras | [![][ico-telegram]](https://t.me/OfertasLaboralespy) | |
+| OpenShift Users Group PY | [![][ico-telegram]](https://t.me/openshiftpy) | |
+| PowerBI & Analytics | [![][ico-telegram]](https://t.me/pbi_analytics_py) | |
+| Promociones con tarjetas de crédito | [![][ico-telegram]](https://t.me/joinchat/vVwfBXzpRkg4NWNh) | |
+| Proyectos Beta | [![][ico-telegram]](https://t.me/proyectosbeta) | |
+| PYOSCON | [![][ico-telegram]](https://t.me/pyoscon) | |
+| Real Estate | [![][ico-telegram]](https://t.me/realestatepy) | |
+| TIPY Joda | [![][ico-telegram]](https://t.me/tipyjoda) | |
+| Trabajo remoto | [![][ico-telegram]](https://t.me/remoteworkpy) | |
+| Trading | [![][ico-discord]](https://discord.gg/Qtz9nTX5) | Traditional markets, FX. El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
+| Turismo y Restaurantes | [![][ico-telegram]](https://t.me/joinchat/P_GLh6g-5BkwMzAx) | |
+| Vacancias TIC | [![][ico-telegram]](https://t.me/VacanciasTICpy) | Canal de ofertas laborales |
+
+[ico-discord]: https://i.imgur.com/1MDaIlO.png
+[ico-telegram]: https://i.imgur.com/FwNOG1K.png
+[ico-whatsapp]: https://i.imgur.com/B31mI7S.png
