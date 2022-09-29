@@ -12,7 +12,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Data Science      | [![][ico-telegram]](https://t.me/Data_Science_PY) | |
 | Databases         | [![][ico-telegram]](https://t.me/databasespy) | |
 | DevOps            | [![][ico-telegram]](https://t.me/devopsPY) | |
-| Domotica          | [![][ico-telegram]](https://t.me/DomoticaPy) | |
+| Domótica          | [![][ico-telegram]](https://t.me/DomoticaPy) | |
 | Front-End         | [![][ico-telegram]](https://t.me/frontendparaguay) | |
 | Hardware          | [![][ico-telegram]](https://t.me/hardwarepy) | |
 | Metodología Agile | [![][ico-telegram]](https://t.me/agilepy) | |
@@ -70,16 +70,16 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Desarrolladores CDE Alto Paraná | [![][ico-telegram]](https://t.me/cdedevteam) | |
 | Docker | [![][ico-telegram]](https://t.me/dockerparaguay) | |
 | Finanzas | [![][ico-telegram]](https://t.me/finanzaspy) | |
-| FLISOL Paraguay | [![][ico-telegram]](https://t.me/flisolpy) | |
+| FLISOL Paraguay | [![][ico-telegram]](https://t.me/flisolpy) | Festival Latinoamericano de Instalación de Software Libre |
 | Ofertas de trabajo | [![][ico-telegram]](https://t.me/trabajoTIPY) | |
 | Ofertas Laboras | [![][ico-telegram]](https://t.me/OfertasLaboralespy) | |
 | OpenShift Users Group PY | [![][ico-telegram]](https://t.me/openshiftpy) | |
 | PowerBI & Analytics | [![][ico-telegram]](https://t.me/pbi_analytics_py) | |
 | Promociones con tarjetas de crédito | [![][ico-telegram]](https://t.me/joinchat/vVwfBXzpRkg4NWNh) | |
-| Proyectos Beta | [![][ico-telegram]](https://t.me/proyectosbeta) | |
+| Proyectos Beta | [![][ico-telegram]](https://t.me/proyectosbeta) | Grupo bastante activo moderado por el Ing. José González von Schmeling, miembro de OSM Paraguay y mantainer de la web proyectosbeta.net. |
 | PYOSCON | [![][ico-telegram]](https://t.me/pyoscon) | |
 | Real Estate | [![][ico-telegram]](https://t.me/realestatepy) | |
-| TIPY Joda | [![][ico-telegram]](https://t.me/tipyjoda) | |
+| TIPY Joda | [![][ico-telegram]](https://t.me/tipyjoda) | Grupo con temática menos seria que TIPY, creado para evitar spam en el principal |
 | Trabajo remoto | [![][ico-telegram]](https://t.me/remoteworkpy) | |
 | Trading | [![][ico-discord]](https://discord.gg/Qtz9nTX5) | Traditional markets, FX. El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 | Turismo y Restaurantes | [![][ico-telegram]](https://t.me/joinchat/P_GLh6g-5BkwMzAx) | |
