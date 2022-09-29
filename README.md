@@ -29,6 +29,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | :---              | :---:  | :---        |
 | Android           | [![][ico-telegram]](https://t.me/androidpy) | |
 | Arduino           | [![][ico-telegram]](https://t.me/arduinopy) | |
+| iOS PY            | [![][ico-telegram]](https://t.me/deviospy) | |
 | Linux             | [![][ico-telegram]](https://t.me/LinuxPyo) | |
 | Unix              | [![][ico-telegram]](https://t.me/nixpy) | |
 
