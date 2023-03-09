@@ -46,7 +46,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Java              | [![][ico-telegram]](https://t.me/jugpy) | |
 | JavaScript        | [![][ico-telegram]](https://t.me/javascriptpy) | |
 | Laravel           | [![][ico-telegram]](https://t.me/LaravelPY) | |
-| Nim               | [![][ico-telegram]](https://t.me/NimParaguay) | |
+| Nim               | [![][ico-telegram]](https://t.me/NimParaguay) | Obsoleto, ver [Nim en Español](https://t.me/NimArgentina) |
 | Node JS           | [![][ico-telegram]](https://t.me/nodejs_paraguay) | |
 | PHP               | [![][ico-telegram]](https://t.me/phpparaguay) | |
 | Python            | [![][ico-telegram]](https://t.me/pythonparaguay) | |
