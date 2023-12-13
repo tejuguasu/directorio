@@ -20,8 +20,13 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Redes             | [![][ico-telegram]](https://t.me/networkpy) | |
 | Testing & QA      | [![][ico-telegram]](https://t.me/testing_py) | |
 | TIPY              | [![][ico-telegram]](https://t.me/ti_py) | |
+<<<<<<< HEAD
 | UX                | [![][ico-telegram]](https://t.me/EnGRch4xNmMm4sw4) | |   
 
+=======
+| UX                | [![][ico-telegram]](https://t.me/joinchat/EnGRch4xNmMm4sw4) | |   
+| Bioinformatica    | [![][ico-telegram]](https://t.me/joinchat/bioinformaticapy) | |
+>>>>>>> 78879e2 (grupo bioinformatica)
 
 
 ### Sistemas Operativos
