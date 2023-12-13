@@ -20,7 +20,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Testing & QA      | [![][ico-telegram]](https://t.me/testing_py) | |
 | TIPY              | [![][ico-telegram]](https://t.me/ti_py) | |
 | UX                | [![][ico-telegram]](https://t.me/joinchat/EnGRch4xNmMm4sw4) | |   
-| Bioinformatica    | [![][ico-telegram]](https://t.me/joinchat/bioinformaticapy) | |
+| Bioinformatica    | [![][ico-telegram]](https://t.me/bioinformaticapy) | |
 
 
 ### Sistemas Operativos
