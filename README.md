@@ -19,6 +19,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Metodología Agile | [![][ico-telegram]](https://t.me/agilepy) | |
 | Redes             | [![][ico-telegram]](https://t.me/networkpy) | |
 | Testing & QA      | [![][ico-telegram]](https://t.me/testing_py) | |
+| TIPY              | [![][ico-telegram]](https://t.me/ti_py) | |
 | LaTeX / TeX       | [![][ico-telegram]](https://t.me/ti_py) | TUG (TeX / LaTeX Users Group) Paraguay |
 | UX                | [![][ico-telegram]](https://t.me/joinchat/EnGRch4xNmMm4sw4) | |   
 
@@ -50,7 +51,6 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Node JS           | [![][ico-telegram]](https://t.me/nodejs_paraguay) | |
 | PHP               | [![][ico-telegram]](https://t.me/phpparaguay) | |
 | Python            | [![][ico-telegram]](https://t.me/pythonparaguay) | |
-| TUGpy            | [![][ico-telegram]](https://t.me/TUGpy) | Grupo de usuarios de TeX / LaTeX y similares de Paraguay |
 | React             | [![][ico-telegram]](https://t.me/ReactPY) | |
 | VueJS             | [![][ico-telegram]](https://t.me/vuejsparaguay) | |
 | Xamarin           | [![][ico-telegram]](https://t.me/XamarinPy) | |
