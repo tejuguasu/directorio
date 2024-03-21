@@ -50,6 +50,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Node JS           | [![][ico-telegram]](https://t.me/nodejs_paraguay) | |
 | PHP               | [![][ico-telegram]](https://t.me/phpparaguay) | |
 | Python            | [![][ico-telegram]](https://t.me/pythonparaguay) | |
+| TUGpy            | [![][ico-telegram]](https://t.me/TUGpy) | Grupo de usuarios de TeX / LaTeX y similares de Paraguay |
 | React             | [![][ico-telegram]](https://t.me/ReactPY) | |
 | VueJS             | [![][ico-telegram]](https://t.me/vuejsparaguay) | |
 | Xamarin           | [![][ico-telegram]](https://t.me/XamarinPy) | |
