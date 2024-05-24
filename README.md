@@ -86,6 +86,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Trading | [![][ico-discord]](https://discord.gg/Qtz9nTX5) | Traditional markets, FX. El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 | Turismo y Restaurantes | [![][ico-telegram]](https://t.me/joinchat/P_GLh6g-5BkwMzAx) | |
 | Vacancias TIC | [![][ico-telegram]](https://t.me/VacanciasTICpy) | Canal de ofertas laborales |
+| Etica Universal en Ciencias y Tecnología | [![][ico-telegram]](https://t.me/+KKt3lT3HTL01MDUx) | Canal con temática orientada a la ética en las distintas disciplinas de la ciencia y las disruptivas|
 
 [ico-discord]: https://i.imgur.com/1MDaIlO.png
 [ico-telegram]: https://i.imgur.com/FwNOG1K.png
