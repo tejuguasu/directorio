@@ -71,6 +71,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | CoompuMARKET.py  | [![][ico-telegram]](https://t.me/joinchat/HG9AlB5o_AE3NTBh) | Compra/venta de artículos de tecnología |
 | Desarrolladores CDE Alto Paraná | [![][ico-telegram]](https://t.me/cdedevteam) | |
 | Docker | [![][ico-telegram]](https://t.me/dockerparaguay) | |
+| Etica Universal en Ciencias y Tecnología | [![][ico-telegram]](https://t.me/+KKt3lT3HTL01MDUx) | Canal con temática orientada a la ética en las distintas disciplinas de la ciencia y las disruptivas|
 | Finanzas | [![][ico-telegram]](https://t.me/finanzaspy) | |
 | FLISOL Paraguay | [![][ico-telegram]](https://t.me/flisolpy) | Festival Latinoamericano de Instalación de Software Libre |
 | Ofertas de trabajo | [![][ico-telegram]](https://t.me/trabajoTIPY) | |
@@ -86,7 +87,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Trading | [![][ico-discord]](https://discord.gg/Qtz9nTX5) | Traditional markets, FX. El grupo en Telegram no tiene link público, pedir invitación en Finanzas o Trabajo remoto
 | Turismo y Restaurantes | [![][ico-telegram]](https://t.me/joinchat/P_GLh6g-5BkwMzAx) | |
 | Vacancias TIC | [![][ico-telegram]](https://t.me/VacanciasTICpy) | Canal de ofertas laborales |
-| Etica Universal en Ciencias y Tecnología | [![][ico-telegram]](https://t.me/+KKt3lT3HTL01MDUx) | Canal con temática orientada a la ética en las distintas disciplinas de la ciencia y las disruptivas|
+
 
 [ico-discord]: https://i.imgur.com/1MDaIlO.png
 [ico-telegram]: https://i.imgur.com/FwNOG1K.png
