@@ -71,6 +71,7 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | CoompuMARKET.py  | [![][ico-telegram]](https://t.me/joinchat/HG9AlB5o_AE3NTBh) | Compra/venta de artículos de tecnología |
 | Desarrolladores CDE Alto Paraná | [![][ico-telegram]](https://t.me/cdedevteam) | |
 | Docker | [![][ico-telegram]](https://t.me/dockerparaguay) | |
+| Etica Universal en Ciencias y Tecnología | [![][ico-telegram]](https://t.me/+KKt3lT3HTL01MDUx) | Canal con temática orientada a la ética en las distintas disciplinas de la ciencia y las disruptivas|
 | Finanzas | [![][ico-telegram]](https://t.me/finanzaspy) | |
 | FLISOL Paraguay | [![][ico-telegram]](https://t.me/flisolpy) | Festival Latinoamericano de Instalación de Software Libre |
 | Ofertas de trabajo | [![][ico-telegram]](https://t.me/trabajoTIPY) | |
